@@ -1,0 +1,21 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = VIRTUAL TOUR
+
+### Title
+tour.name = ENTREVIABLE
+
+## Media
+
+### Title
+panorama_112451A9_1F65_CCF7_4177_96FF8205248E.label = 1
+panorama_13C40C52_1F65_B455_41A0_897D97EDBF37.label = 7
+panorama_13C42E35_1F65_D7DF_41A9_E81AEC490D99.label = 5
+panorama_13C47F12_1F65_F5D5_41BF_528615997969.label = 3
+panorama_13C535FD_1F65_B44F_4187_061B2E215123.label = 6
+panorama_13C568D1_1F65_FC57_41A1_EBE70EF9745F.label = 2
+panorama_13C576E2_1F65_D475_41B7_8EDE1CE19C26.label = 4
+video_19107421_0EE9_E159_41A9_57F7FD0ABA42.label = WhatsApp Video 2022-07-18 at 3.46.20 AM
