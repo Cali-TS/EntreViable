@@ -25,5 +25,12 @@ panorama_932E16BE_9987_84FC_41DA_A7877597CE21.label = 14
 panorama_932E3436_9987_9B8C_41D7_4D4652CE4170.label = 8
 panorama_932E75B6_9987_848F_41D2_E07F778E6669.label = 12
 panorama_932E7EEE_9987_849F_4197_6F40BF384A37.label = 15
-video_8F752025_998C_BB8D_41E0_2C32379DBFC9.label = ENTREVIABLE4
+photo_8E664187_9C21_BC0E_41E0_EAB361B40C5C.label = WhatsApp Image 2022-06-29 at 11.01.56 PM
+video_8C288352_9C22_5C01_41E2_64FFCF0E989A.label = ENTREVIABLE
+video_8E90199B_9C3E_4C07_41D2_3C40BC82BB47.label = ENTREVIABLE4
 video_A40B24B4_9A85_8483_41D9_C23DA887D73E.label = ENTREVIABLE5
+
+## Popup
+
+### Body
+htmlText_8E20136E_9C22_7C01_41C8_F675DA0F4098.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">welcome in our metaverse platform</SPAN></DIV></BODY></HTML></div>
