@@ -59,22 +59,23 @@ video_8C288352_9C22_5C01_41E2_64FFCF0E989A.label = ENTREVIABLE
 video_8E90199B_9C3E_4C07_41D2_3C40BC82BB47.label = ENTREVIABLE4
 video_A40B24B4_9A85_8483_41D9_C23DA887D73E.label = ENTREVIABLE5
 video_C1DE4805_D17F_4F57_41E2_1517EA23D14D.label = raed
+video_E55B632F_EA85_9343_41E0_3CEEDE5F45C2.label = abd_markiting3
 
 ## Hotspot
 
 ### URL
-overlay_C2070585_E0DD_5F08_41D4_293E64493F30.url = //www.youtube.com/embed/QaqcJPCtBJI
-overlay_C21C15AE_E0DF_7F1B_41CD_04F9D6812E10.url = //www.youtube.com/embed/QaqcJPCtBJI
-overlay_C326D3FE_E0DD_FAF8_41D5_0538C545B037.url = //www.youtube.com/embed/QaqcJPCtBJI
-overlay_C341274D_E0D4_DB19_41E1_8F16BFC1461B.url = //www.youtube.com/embed/QaqcJPCtBJI
-overlay_C372290E_E0DB_D71B_41E3_C08CFFD044C4.url = //www.youtube.com/embed/QaqcJPCtBJI
-overlay_C399B4E3_E0DD_3D08_41B9_C61966B95C4D.url = //www.youtube.com/embed/QaqcJPCtBJI
-overlay_C39F9E36_E0DC_CD0B_41EB_98796DB1A33A.url = //www.youtube.com/embed/QaqcJPCtBJI
-overlay_E277EDDC_D37D_40F5_41D9_F0B25EEB4632.url = //www.youtube.com/embed/QaqcJPCtBJI
+overlay_C2070585_E0DD_5F08_41D4_293E64493F30.url = //www.youtube.com/embed/rijRE-5QMPU
+overlay_C21C15AE_E0DF_7F1B_41CD_04F9D6812E10.url = //www.youtube.com/embed/rijRE-5QMPU
+overlay_C326D3FE_E0DD_FAF8_41D5_0538C545B037.url = //www.youtube.com/embed/rijRE-5QMPU
+overlay_C341274D_E0D4_DB19_41E1_8F16BFC1461B.url = //www.youtube.com/embed/rijRE-5QMPU
+overlay_C372290E_E0DB_D71B_41E3_C08CFFD044C4.url = //www.youtube.com/embed/rijRE-5QMPU
+overlay_C399B4E3_E0DD_3D08_41B9_C61966B95C4D.url = //www.youtube.com/embed/rijRE-5QMPU
+overlay_C39F9E36_E0DC_CD0B_41EB_98796DB1A33A.url = //www.youtube.com/embed/rijRE-5QMPU
+overlay_E277EDDC_D37D_40F5_41D9_F0B25EEB4632.url = //www.youtube.com/embed/rijRE-5QMPU
 overlay_E50C91DE_D354_C0F5_41DD_17ECE3D32B3C.url = //www.youtube.com/embed/U9qSVtO8PVE?v=U9qSVtO8PVE
 overlay_F70EB495_D1DF_C776_41D4_55EF62AEB5D0.url = //www.youtube.com/embed/CbVuN8HVzAI?v=CbVuN8HVzAI
 overlay_FAD45F12_D337_414D_41E2_3FB6F2255474.url = //www.youtube.com/embed/4Y8Fqy56oN8?v=4Y8Fqy56oN8
-overlay_FD7B6706_D353_4152_41E7_940C84A9D75B.url = //www.youtube.com/embed/QaqcJPCtBJI
+overlay_FD7B6706_D353_4152_41E7_940C84A9D75B.url = //www.youtube.com/embed/rijRE-5QMPU
 
 ## Action
 
